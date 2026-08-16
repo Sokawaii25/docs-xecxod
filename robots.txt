@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-jsp2oc.biggamingwin.online/sitemap.xml
